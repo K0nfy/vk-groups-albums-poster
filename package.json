@@ -7,7 +7,7 @@
   "dependencies": {
     "dateformat": "^3.0.3",
     "form-data": "^3.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "util": "^0.12.3",
     "vk-io": "^4.0.0-rc.30"
   }
